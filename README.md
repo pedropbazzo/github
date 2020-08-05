@@ -2,7 +2,7 @@
 UI Clone - Github
 </h1>
 
-<img src="https://github.com/pedropbazzo/github/blob/master/public/github.png" width="75px;"/>
+<img src="https://github.com/pedropbazzo/github/blob/master/public/github.png"/>
 <hr>
 
 ## Participants
