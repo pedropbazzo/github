@@ -2,10 +2,10 @@
 UI Clone - Github
 </h1>
 
+## Deploy link : https://5f2a0be201316cf5255ccd16--gifted-liskov-2cdf80.netlify.app/
+
 <img src="https://github.com/pedropbazzo/github/blob/master/public/github.png"/>
 <hr>
-
-## Deploy link : https://5f2a0be201316cf5255ccd16--gifted-liskov-2cdf80.netlify.app/
 
 ## Participants
 
